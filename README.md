@@ -5,5 +5,5 @@ La ecuación que se gráfica es
 
 ![Sin título](https://github.com/raymundosoto/Corazon-generado-con-un-modelo-matematico-en-Matlab/assets/72757419/7935153e-ba20-4706-bc2b-01ec2b0f5403)
 
-## Resulatado de la animación
+## Resultado de la animación
 
