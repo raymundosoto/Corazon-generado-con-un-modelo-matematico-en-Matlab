@@ -7,3 +7,6 @@ La ecuación que se gráfica es
 
 ## Resultado de la animación
 
+Visitar mi canal de Youtube
+
+https://youtu.be/Fn1Wpzj1JD0?si=PqadqW71mvivW7ka
