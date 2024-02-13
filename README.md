@@ -6,7 +6,9 @@ La ecuación que se gráfica es
 ![Sin título](https://github.com/raymundosoto/Corazon-generado-con-un-modelo-matematico-en-Matlab/assets/72757419/7935153e-ba20-4706-bc2b-01ec2b0f5403)
 
 ## Resultado de la animación
+![corazon1](https://github.com/raymundosoto/Corazon-generado-con-un-modelo-matematico-en-Matlab/assets/72757419/9af9a35a-e2a2-440d-a2be-514be0d2287c)
 
-Visitar mi canal de Youtube
+
+# Visitar mi canal de Youtube
 
 https://youtu.be/Fn1Wpzj1JD0?si=PqadqW71mvivW7ka
