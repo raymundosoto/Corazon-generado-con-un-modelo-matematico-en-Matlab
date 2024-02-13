@@ -1,5 +1,5 @@
 # Corazon-generado-con-un-modelo-matematico-en-Matlab
-Este repositorio contiene el código para la animación de la generación de un corazón a partir de un modelo matemático en Matla, consiste en 3 carpetas: una contiene la función demoDisplay. m que es la que se debe invocar para comenzar la animación. Al finalizar la animación se guarda el archivo de la animación en formato .mp4
+Este repositorio contiene el código para la animación de la generación de un corazón a partir de un modelo matemático en Matlab, consiste en 3 archivos: uno contiene la función demoDisplay. m que es la que se debe invocar para comenzar la animación, los otros 2 generan la gráfica y la física de animación. Al finalizar la animación se guarda el archivo de la animación en formato .mp4
 
 La ecuación que se gráfica es
 
